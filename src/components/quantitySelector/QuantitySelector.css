@@ -1,0 +1,43 @@
+.quantitySelector__container {
+    display: flex;
+    justify-content: space-between;
+}
+.quantitySelector__container > div {
+    flex-grow: 1;
+}
+.quantitySelector__container > div + div {
+    margin-left: 10px;
+}
+.quantitySelector {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #d3d2d2;
+    border-radius: 2px;
+    padding: 3px 8px;
+}
+
+.quantitySelector label,
+.quantitySelector span {
+    color: #333;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.quantitySelector__adjusters {
+    width: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.quantitySelector__adjusters .icon {
+    cursor: pointer;
+    color: #d3d2d2;
+    fill: #d3d2d2;
+    width: 30px;
+    height: 30px;
+}
+.quantitySelector__adjusters span {
+    margin: 0 5px;
+}

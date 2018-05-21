@@ -1,0 +1,20 @@
+.additionalActions {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.additionalActions button {
+    flex-grow: 1;
+    border: none;
+    border-radius: 3px;
+    background-color: #f3f3f3;
+    color: #333333;
+    font-size: 12px;
+    font-weight: normal;
+    padding: 5px;
+    text-align: center;
+}
+.additionalActions button + button {
+    margin-left: 8px;
+}

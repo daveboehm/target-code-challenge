@@ -1,0 +1,32 @@
+.purchaseMethod__container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.button__pickup {
+    color: #fff;
+    display: block;
+    flex-grow: 1;
+    border: 1px solid #000;
+    border-radius: 2px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    background: linear-gradient(180deg, rgba(100,100,100,1) 5%, rgba(0,0,0,1) 100%);
+}
+
+.button__online {
+    color: #fff;
+    display: block;
+    flex-grow: 1;
+    border: 1px solid #cc0000;
+    border-radius: 2px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    background: linear-gradient(180deg, rgba(226,110,110,1) 5%, rgba(204,0,0,1) 100%);
+    margin-left: 10px;
+}

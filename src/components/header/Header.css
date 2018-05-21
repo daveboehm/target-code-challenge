@@ -1,0 +1,11 @@
+.header {
+    width: 100%;
+    max-width: 440px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.h1 {
+    font-weight: lighter;
+    line-height: 1.5;
+}

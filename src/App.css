@@ -1,0 +1,59 @@
+* {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: normal;
+    box-sizing: border-box;
+}
+
+.App {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+@media (min-width: 601px) {
+    .App {
+        max-width: 1200px;
+    }
+}
+
+.hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+}
+
+.onlinePrice {
+    color: #000;
+    font-size: 30px;
+    font-weight: bold;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px;
+}
+
+.onlinePrice span {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+
+.column {
+    padding: 0 20px;
+}
+.column--right {
+    width: 100%;
+    float: right;
+}
+.column--left {
+    width: 100%;
+    float: left;
+}
+
+@media (min-width: 800px) {
+    .column--right {
+        width: 50%;
+    }
+    .column--left {
+        width: 50%;
+    }
+}
