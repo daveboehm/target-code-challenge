@@ -3,6 +3,7 @@
 `$ git clone git@github.com:daveboehm/target-code-challenge.git`
 `cd target-code-challenge && npm install`
 `npm run start`
+
 View app locally at: [http://localhost:3000](http://localhost:3000)
 
 Visit heroku app at: [https://ancient-thicket-78095.herokuapp.com/](https://ancient-thicket-78095.herokuapp.com/)
