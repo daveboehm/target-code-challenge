@@ -5,7 +5,8 @@
 `npm run start`
 View app locally at: [http://localhost:3000](http://localhost:3000)
 
-#### Visit heroku app at [https://ancient-thicket-78095.herokuapp.com/] (https://ancient-thicket-78095.herokuapp.com/)
+#### Visit heroku app at 
+[https://ancient-thicket-78095.herokuapp.com/] (https://ancient-thicket-78095.herokuapp.com/)
 
 ## Tools selected
 
