@@ -18,8 +18,8 @@ Icons were generated with SVG elements. The paths were created in a web app call
 ## What I'm not so proud of
 
 - Grossly underestimated the amount of time this was going to take me. This is a rather hefty code challenge, in my experience.
-- No time for refactor or commenting
 - Carousel is incomplete
 - Stars aren't being rendered dynamically
 - Didn't finish the assignment on time
 - Did not get to unit testing or test coverage. Haven't ever done this in React and I figure it'd probably take me more than a week to be any good at it.
+- Number of CSS bugs I didn't have time to correct
