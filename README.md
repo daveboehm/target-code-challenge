@@ -1,5 +1,11 @@
 # Front End Development Code Challenge
 
+`$ git clone git@github.com:daveboehm/target-code-challenge.git`
+`cd target-code-challenge && npm install`
+`npm run start`
+
+#### Visit heroku app at [https://ancient-thicket-78095.herokuapp.com/] (https://ancient-thicket-78095.herokuapp.com/)
+
 ## Tools selected
 
 I went with React.js via create-react-app. This is not a library I am very comfortable with, nor do I have much experience with it, however I thought it might be impressive to show off how quickly I can learn and implement something new. I'm aware this decision may come to haunt me.
