@@ -1,6 +1,5 @@
 .quantitySelector__container {
-    display: flex;
-    justify-content: space-between;
+    width: 50%;
 }
 .quantitySelector__container > div {
     flex-grow: 1;

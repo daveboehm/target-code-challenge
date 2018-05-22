@@ -5,6 +5,7 @@
 }
 
 .button__pickup {
+    width: 50%;
     color: #fff;
     display: block;
     flex-grow: 1;
@@ -18,6 +19,7 @@
 }
 
 .button__online {
+    width: 50%;
     color: #fff;
     display: block;
     flex-grow: 1;
